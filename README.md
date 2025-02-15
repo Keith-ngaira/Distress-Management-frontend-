@@ -197,8 +197,3 @@ The project is configured for maximum portability across different development e
 - **Data Grid**: MUI X-Data Grid
 - **Theming**: Material-UI Theme Provider
 - **Version Control**: Git
-
-## Repository
-
-This frontend application is maintained at:
-[https://github.com/Keith-ngaira/Distress-Management-frontend-](https://github.com/Keith-ngaira/Distress-Management-frontend-)
